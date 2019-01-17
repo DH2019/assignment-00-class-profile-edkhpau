@@ -1,0 +1,14 @@
+{
+  "firstName": "Edwin",
+  "lastName": "Pau",
+  "nickName": "Ed",
+  "privateName": false,
+  "picture": "images/edkhpau.jpg",
+  "privatePicture": false,
+  "email": "e.pau@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "edkhpau",
+  "privateGithub": false,
+  "superpower" : "Last-minute essay crystalization.",
+  "academicinterests": "European History, Digital Humanities."
+}
