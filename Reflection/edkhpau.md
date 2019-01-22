@@ -1,0 +1,18 @@
+# Reflection
+
+Respond to each of the questions below with a carefully thought out reflection on the assignment.
+
+## Question 1
+#### In this assignment, we used your user input to construct a small website composed of flipping cards. Can you think of a more interesting use for this basic layout? The use you describe should serve some pedagogical or research-oriented purpose for historians or humanists
+
+The basic website layout created using the data from this assignment presents some preliminary information about a subject (i.e. a student in the HIS393 course) that can be quickly switched to and from. The collection, a class roster, gathers similar qualities about each subject and groups them together. This format could be used to present information about a series of events, related by time, location, or event, in an easily viewable form. For example, if a historian were to create a website about the Second World War and the events of Operation Overlord (D-Day) for the general public, the card format could be used to present each ‘front’ or beach during the invasion. The same format could be used to document subjects in a non-history related field. In one project I briefly worked on, I catalogued a series of public health emergencies that occurred internationally (such as the Tokyo Sarin attacks in 1995 or the 1979 Three Mile Island nuclear incident). 
+
+## Question 2
+#### This assignment asks you all to perform a certian amount of work (describing yourselves) in order to improve a project (the course roster website). What responsibilities does the "researcher" (in this case, your teacher) have to the participants (you)? What rights do or should the participants have to the end product? 
+
+The researcher has the responsibility to exclude and secure private information that may be submitted to the project. While it may be helpful to the researcher to know personal information to understand each profile or “subject” better, only the most relevant information should be displayed on the card itself. Although the final data that is selected and presented on the site relies on the researcher, the participate or “source” of the information has the right to have his or her entry properly represented to the best ability of the researcher. The researcher therefore has the responsibility to redact any information that the source does not want displayed on the site to ensure that a source’s privacy. However, the researcher is not responsible for retroactively updating the site unless the project calls for such action. 
+
+## Question 3
+#### Information in each student record was provided as a series of "fields", that is, discrete units of information separated from each other. In the use you describe above, what fields would you need to provide for each record? Can you think of any limitations or obstacles that the use of this kind of data structure imposes on your project?
+
+In the context of the D-Day example, each card would present a different ‘topic’ or front, the composition and nationality of the forces that fought on the front, and the order of events that happened there as each “field” on the card. A visitor to the website can then compare and contrast each front by alternating between cards. The card format may be limited for both projects because each entry is restricted to text and pictures and ignores the audio-visual aspect of a catalogue, as there appears to be no way to include a video or audio file into a card entry. The presentation of information in a brief card-based format also limits each entry to basic information about each subject because a lengthy body of text may make each “card” hard to read. 
